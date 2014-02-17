@@ -1,3 +1,3 @@
 # My Wiki
 
-My Wiki on GitHub Gist
+My Wiki on GitHub Gists
